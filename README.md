@@ -49,7 +49,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<sugi/ormapp/Screenshot 2025-10-07 160825.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 160825" src="https://github.com/user-attachments/assets/1b59b437-dc2e-4333-9dfb-7df91bea877b" />
+
 
 
 Include the screenshot of your admin page.
